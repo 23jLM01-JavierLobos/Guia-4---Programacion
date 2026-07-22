@@ -4,6 +4,7 @@ class Program
 {
     static void Main()
     {
+        Console.WriteLine("Nombre: Javier Lobos\n" + "Grado: IV bach - clave 17\n" + "====Tipos de Triangulos===");
         int opcion;
 
         Console.WriteLine("Ingrese el número de la lista:");
