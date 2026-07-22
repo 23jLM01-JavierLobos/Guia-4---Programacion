@@ -1,10 +1,10 @@
-﻿
-using System;
+﻿using System;
 
 class Program
 {
     static void Main()
     {
+        Console.WriteLine("Nombre: Javier Lobos\n" + "Grado: IV bach - clave 17\n" + "====Tipos de Triangulos===");
         double l1, l2, l3;
 
         Console.Write("Ingrese la medida del lado 1: ");
