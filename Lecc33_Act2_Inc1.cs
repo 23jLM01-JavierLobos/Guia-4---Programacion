@@ -2,6 +2,7 @@
 {
     private static void Main(string[] args)
     {
+        Console.WriteLine("Nombre: Javier Lobos\n" + "Grado: IV bach - clave 17\n" + "====Frase Invertida===");
         string f, fi;
         int lf;
 
